@@ -2,3 +2,7 @@
 
 A new Flutter project.
 
+The Login creds: 
+
+test@example.com
+123456
